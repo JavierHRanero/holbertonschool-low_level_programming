@@ -2,7 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/* main - Entry point of the program */
+/* main - Entry point of the program 
+ *
+ *Description: This program assigns a random number to the variable n 
+ *             and prints whether the number is positive, negative, or zero.
+ *
+ *Return : 0 on success
+ */
 int main(void)
 {
 int n;
