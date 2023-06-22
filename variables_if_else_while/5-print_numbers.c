@@ -8,8 +8,9 @@
 *Return: 0 on success
 */
 int main(void)
+int numero;
 {
-for (int numero = 0; numero <= 9; numero ++)
+for (numero = 0; numero <= 9; numero ++)
 {
 putchar('0' + numero);
 }
