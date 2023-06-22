@@ -1,12 +1,12 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
 char letra = 'a';
 while (letra <= 'z')
-{   
+{
 putchar(letra);
 letra++;
 }
 putchar('\n');
-return 0;
+return (0);
 }
