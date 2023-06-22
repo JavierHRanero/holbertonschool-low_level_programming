@@ -7,7 +7,7 @@
 *
 *Return: 0 on success
 */
-int main(void)
+int main()
 int numero;
 {
 for (numero = 0; numero <= 9; numero ++)
