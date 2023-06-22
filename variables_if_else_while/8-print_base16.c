@@ -9,7 +9,7 @@
 */
 int main(void)
 {
-int numero;
+char numero;
 for (numero = '0'; numero <= 'f'; numero++)
 {
 if ((numero >='0'; && numero <='9') || (numero >= 'a' && numero <= 'f'))
