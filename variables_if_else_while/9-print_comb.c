@@ -15,7 +15,7 @@ for (numero = 0; numero <= 9; numero++)
 printf("%d", numero);
  if ( numero < 9)
 {
-print(", ");
+printf(", ");
 }
 }
 printf("\n");
