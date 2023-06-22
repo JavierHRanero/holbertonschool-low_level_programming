@@ -19,8 +19,8 @@ letra++;
 while (letra2 <= 'Z')
 {
 putchar (letra2);
-letra2++;  
-} 
+letra2++;
+}
 putchar('\n');
 return (0);
 }
