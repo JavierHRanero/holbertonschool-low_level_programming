@@ -8,10 +8,11 @@
 *Return: 0 on success
 */
 int main(void)
-int numero;
-for (numero = 0; numero <= 9; numero ++)
 {
-putchar('0' + numero);
+int numero;
+for (numero = 0; numero < 10; numero ++)
+{
+putchar("%d" + numero);
 }
 putchar('\n');
 return (0);
