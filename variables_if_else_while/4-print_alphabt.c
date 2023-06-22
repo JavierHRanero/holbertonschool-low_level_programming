@@ -10,7 +10,6 @@
 int main(void)
 {
 char letra = 'a';
-char letra2 = 'A';
 while (letra <= 'z')
 {
 if (letra != 'q' && letra !='e')
