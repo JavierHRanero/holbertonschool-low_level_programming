@@ -10,9 +10,9 @@
 int main(void)
 {
 int numero;
-for (numero = 0; numero < 10; numero++)
+for (numero = '0'; numero < '10'; numero++)
 {
-putchar("0" + numero);
+putchar(numero);
 }
 putchar("\n");
 return (0);
