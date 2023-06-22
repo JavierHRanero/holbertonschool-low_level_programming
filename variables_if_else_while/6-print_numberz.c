@@ -1,5 +1,5 @@
 #include <stdio.h>
-/**
+0;276;0c/**
 *main - Entry point of the program
 *
 *Description: This progra assigns a random number to the variable n
@@ -14,6 +14,6 @@ for (numero = '0'; numero <= '9'; numero++)
 {
 putchar(numero);
 }
-putchar("\n");
+putchar('\n');
 return (0);
 }
